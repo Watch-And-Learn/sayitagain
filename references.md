@@ -1,0 +1,2 @@
+1. [set up a handoop cluster in docker](https://clubhouse.io/developer-how-to/how-to-set-up-a-hadoop-cluster-in-docker/)
+2. [apache beam data-flow google cloud product page](https://cloud.google.com/dataflow)

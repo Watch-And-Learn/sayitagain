@@ -1,0 +1,3 @@
+{
+    "desc":"Apache Beam is an open source, unified model for defining and executing data-parallel processing pipelines, as well as a set of language-specific SDKs for constructing pipelines and runtime-specific Runners for executing them. The model behind Beam evolved from a number of internal Google data processing projects, including MapReduce, FlumeJava, and Millwheel. This model was originally known as the “Dataflow Model” and first implemented as Google Cloud Dataflow, including a Java SDK on GitHub for writing pipelines and fully managed service for executing them on Google Cloud Platform."
+}

@@ -1,0 +1,3 @@
+{
+    "desc": "Redis is an open-source, networked, in-memory, data structures store with optional durability. It is written in ANSI C. In its outer layer, the Redis data model is a dictionary which maps keys to values. One of the main differences between Redis and other structured storage systems is that Redis supports not only strings, but also abstract data types."
+}

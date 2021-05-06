@@ -1,0 +1,3 @@
+{
+    "desc":"Document-oriented database system. It is part of the NoSQL family of database systems. Instead of storing data in tables as is done in a \"classical\" relational database, MongoDB stores structured data as JSON-like documents."
+}
